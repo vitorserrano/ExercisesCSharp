@@ -1,0 +1,11 @@
+C:\Users\Lab015\Desktop\FIrst Project C#\bin\Debug\netcoreapp3.0\FIrst Project C#.exe
+C:\Users\Lab015\Desktop\FIrst Project C#\bin\Debug\netcoreapp3.0\FIrst Project C#.deps.json
+C:\Users\Lab015\Desktop\FIrst Project C#\bin\Debug\netcoreapp3.0\FIrst Project C#.runtimeconfig.json
+C:\Users\Lab015\Desktop\FIrst Project C#\bin\Debug\netcoreapp3.0\FIrst Project C#.runtimeconfig.dev.json
+C:\Users\Lab015\Desktop\FIrst Project C#\bin\Debug\netcoreapp3.0\FIrst Project C#.dll
+C:\Users\Lab015\Desktop\FIrst Project C#\bin\Debug\netcoreapp3.0\FIrst Project C#.pdb
+C:\Users\Lab015\Desktop\FIrst Project C#\obj\Debug\netcoreapp3.0\FIrst Project C#.csprojAssemblyReference.cache
+C:\Users\Lab015\Desktop\FIrst Project C#\obj\Debug\netcoreapp3.0\FIrst Project C#.AssemblyInfoInputs.cache
+C:\Users\Lab015\Desktop\FIrst Project C#\obj\Debug\netcoreapp3.0\FIrst Project C#.AssemblyInfo.cs
+C:\Users\Lab015\Desktop\FIrst Project C#\obj\Debug\netcoreapp3.0\FIrst Project C#.dll
+C:\Users\Lab015\Desktop\FIrst Project C#\obj\Debug\netcoreapp3.0\FIrst Project C#.pdb
