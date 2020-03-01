@@ -1,0 +1,11 @@
+/home/vitor/Development/ExercisesCSharp/bin/Debug/netcoreapp3.1/ExercisesCSharp
+/home/vitor/Development/ExercisesCSharp/bin/Debug/netcoreapp3.1/ExercisesCSharp.deps.json
+/home/vitor/Development/ExercisesCSharp/bin/Debug/netcoreapp3.1/ExercisesCSharp.runtimeconfig.json
+/home/vitor/Development/ExercisesCSharp/bin/Debug/netcoreapp3.1/ExercisesCSharp.runtimeconfig.dev.json
+/home/vitor/Development/ExercisesCSharp/bin/Debug/netcoreapp3.1/ExercisesCSharp.dll
+/home/vitor/Development/ExercisesCSharp/bin/Debug/netcoreapp3.1/ExercisesCSharp.pdb
+/home/vitor/Development/ExercisesCSharp/obj/Debug/netcoreapp3.1/ExercisesCSharp.csprojAssemblyReference.cache
+/home/vitor/Development/ExercisesCSharp/obj/Debug/netcoreapp3.1/ExercisesCSharp.AssemblyInfoInputs.cache
+/home/vitor/Development/ExercisesCSharp/obj/Debug/netcoreapp3.1/ExercisesCSharp.AssemblyInfo.cs
+/home/vitor/Development/ExercisesCSharp/obj/Debug/netcoreapp3.1/ExercisesCSharp.dll
+/home/vitor/Development/ExercisesCSharp/obj/Debug/netcoreapp3.1/ExercisesCSharp.pdb
